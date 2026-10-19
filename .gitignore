@@ -1,0 +1,23 @@
+# Local planning files; intentionally excluded from the public application repository.
+/paceWavePlan*.json
+/docs/
+/AGENTS.md
+
+# Machine-local Android/Gradle configuration and secrets; no .env is used by the project yet.
+/local.properties
+/.env
+/.env.*
+!/.env.example
+
+# Gradle / Android build outputs and local IDE state.
+/.gradle/
+/.kotlin/
+/**/build/
+/.idea/
+*.iml
+/captures/
+/out/
+/release/
+/debug/
+/.externalNativeBuild/
+/.cxx/

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Corredor Fantasma</string>
+    <string name="home_title">Corredor Fantasma</string>
+    <string name="home_tagline">Run with your pace as the soundtrack.</string>
+    <string name="new_training">New training</string>
+    <string name="statistics">Statistics</string>
+    <string name="export_data">Export data</string>
+    <string name="editor_title">Race editor</string>
+    <string name="editor_placeholder">Route editing and the map arrive in a later phase.</string>
+    <string name="open_live_race">Continue to race preview</string>
+    <string name="race_title">Live race</string>
+    <string name="race_placeholder">GPS, map and training controls arrive in a later phase.</string>
+    <string name="ready">Ready</string>
+    <string name="statistics_placeholder">Your completed training sessions will appear here.</string>
+    <string name="export_placeholder">Import and export will use the Android document picker.</string>
+    <string name="back">Back</string>
+    <string name="back_to_menu">Back to menu</string>
+</resources>
